@@ -1,5 +1,7 @@
 # My_3_DataScience_Final_Projects
 
+ This repository showcases my practical projects in data science, machine learning, and data analysis.
+
 
 Project 1: Loan Default Prediction Web App (GitHub Repository & live web app links)
 
